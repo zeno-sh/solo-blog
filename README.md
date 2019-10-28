@@ -10,6 +10,7 @@ Z 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.zamblog.cn/my-github-repos)
 * [优秀博客汇总](https://www.zamblog.cn/articles/2019/10/26/1572066771681.html)
 * [世界，你好！](https://www.zamblog.cn/hello-solo)
 
